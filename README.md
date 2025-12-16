@@ -1,3 +1,5 @@
+##few issues : remove that part which doesn't involved in insertion of 100 users
+
 # User Management CRUD App
 
 A simple backend web application built with **Node.js, Express, EJS, and MySQL** that demonstrates full **CRUD (Create, Read, Update, Delete)** operations on users.  
